@@ -1,7 +1,7 @@
 - Get the project working using npm or yarn.
 
 Basic Features:
-- Change the vector display to show all numbers in the format d.ddd
+- Change the vector display to show all numbers in the format d.ddd, like 0.334
 - Use table to display the vectors
 - Add a button to clear all vectors
 - Add a checkbox to select vectors
